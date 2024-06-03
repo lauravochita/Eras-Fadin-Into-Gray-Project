@@ -4,7 +4,7 @@ This repository contains all the necessary information regarding the research ca
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
-**Note:** This software is intended for non-commercial research purposes only. Any commercial use is prohibited without explicit permission from the author. For commercial inquiries, please contact [Author's Contact Information].
+**Note:** This software is intended for non-commercial research purposes only. Any commercial use is prohibited.
 
 By using this software, you agree to acknowledge the author(s) and this repository in any publications or presentations resulting from the use of this software.
 
